@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+python_example.egg-info/PKG-INFO
+python_example.egg-info/SOURCES.txt
+python_example.egg-info/dependency_links.txt
+python_example.egg-info/not-zip-safe
+python_example.egg-info/requires.txt
+python_example.egg-info/top_level.txt
+src/main.cpp

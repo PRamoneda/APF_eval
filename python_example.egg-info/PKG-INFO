@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: python-example
+Version: 0.0.1
+Summary: A test project using pybind11
+Home-page: https://github.com/pybind/python_example
+Author: Sylvain Corlay
+Author-email: sylvain.corlay@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Provides-Extra: test
+License-File: LICENSE
+
+UNKNOWN
+
