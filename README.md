@@ -6,7 +6,7 @@ Installation
 ------------
 
  - clone this repository
- - `python3 -m pip install ../multi_fingering_eval`
+ - `python3 -m pip install .`
 
 Publication
 -----------
